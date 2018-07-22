@@ -1,0 +1,12 @@
+{
+  "authors": [
+    {
+      "name": "Maher Isnard",
+      "email": "maher.isnard@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"SudokuServer\\": "src/"}
+  }
+}
